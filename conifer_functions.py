@@ -1,28 +1,3 @@
-#######################################################################
-#######################################################################
-# CoNIFER: Copy Number Inference From Exome Reads
-# Developed by Niklas Krumm (C) 2012
-# nkrumm@gmail.com
-# 
-# homepage: http://conifer.sf.net
-# This program is described in:
-# Krumm et al. 2012. Genome Research. doi:10.1101/gr.138115.112
-#
-# This file is part of CoNIFER.
-# CoNIFER is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# 
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# 
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#######################################################################
-#######################################################################
 
 import csv
 from tables import *
